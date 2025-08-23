@@ -9,3 +9,10 @@ This is the repository of the analysis of metagenomes from mexican humans compar
 
 [Taxonomic script]([https://github.com/Automattic/themes?tab=readme-ov-file])
 
+
+
+```r
+
+nwñichsdcns
+
+```
