@@ -7,5 +7,5 @@ This is the repository of the analysis of metagenomes from mexican humans compar
 
 ## To run the taxonomic description is necesary to use this R script:
 
-[Taxonomic script]([ruta/al/script](R scripts/exp_diff_sombrero (2).R)
+[Taxonomic script]([https://github.com/Automattic/themes?tab=readme-ov-file])
 
